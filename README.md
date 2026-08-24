@@ -1,7 +1,7 @@
 # 🏀 NBA Game & Player Assistant Agent (Local AI - v3)
 
 Tamamen yerel donanımda çalışan, bulut bağımlılığı olmayan interaktif NBA Analitik, Scouting ve Taktik Asistanı. `nba_api` üzerinden gerçek zamanlı maç ve şut koordinatlarını çeker, resmi saha haritaları üzerinde görselleştirir ve yerel **Qwen 2.5 (qwen2.5:7b)** modeliyle Türkçe taktiksel scouting analizleri üretir.
-
+[![Watch Video](https://img.shields.io/badge/Demo_Video-Google_Drive-blue?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/1-QuoSDTm-1RtGcdnK-rt8iRQWZywMt_z/view?usp=sharing)
 ---
 
 ## 🚀 Öne Çıkan Özellikler
